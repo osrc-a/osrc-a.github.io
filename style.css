@@ -56,6 +56,14 @@ nav {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.project iframe {
+    width: 100%;
+    height: auto;
+    border: none;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
 nav ul {
     list-style: none;
     display: flex;
