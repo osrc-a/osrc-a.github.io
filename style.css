@@ -96,7 +96,6 @@ main {
 
 section p {
     background-color: white;
-    text-align: justify;
     padding: 40px;
     margin: 40px 0;
     border-radius: 12px;
@@ -223,8 +222,9 @@ a.button:hover {
         padding: 0 10px;
     }
 
-    section {
+    section p {
         padding: 30px;
+        text-align: center;
     }
 
     h2 {
