@@ -94,8 +94,9 @@ main {
     padding: 0 20px;
 }
 
-section {
+section p{
     background-color: white;
+    text-align: justify;
     padding: 40px;
     margin: 40px 0;
     border-radius: 12px;
