@@ -18,6 +18,10 @@ img, a {
     max-width: 100%;
 }
 
+p {
+    text-align: justify;
+}
+
 /* Header Styles */
 header {
     background-color: #24292f;
